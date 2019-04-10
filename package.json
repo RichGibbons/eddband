@@ -1,0 +1,26 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "package.json",
+  "main": "package.json",
+  "dependencies": {
+    "npm": "^6.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "package.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichGibbons/eddband.git"
+  },
+  "keywords": [
+    "package.json"
+  ],
+  "author": "rich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RichGibbons/eddband/issues"
+  },
+  "homepage": "https://github.com/RichGibbons/eddband#readme"
+}
